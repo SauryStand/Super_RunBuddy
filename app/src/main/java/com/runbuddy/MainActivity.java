@@ -148,4 +148,10 @@ public class MainActivity extends SupportActivity implements BaseLazyMainFragmen
         super.onDestroy();
 //        EventBus.getDefault().unregister(this);
     }
+
+    private void testing(){
+
+    }
+
+
 }
